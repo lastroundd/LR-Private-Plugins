@@ -1,6 +1,6 @@
 # LR-Private-Plugins
 
-# Zephyrus Store Addons
+# Zephyrus Store Modules
 - Case opening system (paid | buyable)
 
 # Contact me
