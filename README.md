@@ -6,4 +6,4 @@
 # Contact me
 - Discord: lastround#9924
 - Steam: https://steamcommunity.com/id/lastroundcs
-- Twitter: @lastroundfn
+- Twitter: @lastroundval
