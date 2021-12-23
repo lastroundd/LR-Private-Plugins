@@ -1,4 +1,9 @@
 # LR-Private-Plugins
 
 # Zephyrus Store Addons
-- Case system
+- Case system (paid)
+
+# Contact me
+- Discord: lastround#9924
+- Steam: https://steamcommunity.com/id/lastroundcs
+- Twitter: @lastroundfn
