@@ -1,7 +1,7 @@
 # LR-Private-Plugins
 
 # Zephyrus Store Addons
-- Case opening system (paid)
+- Case opening system (paid | buyable)
 
 # Contact me
 - Discord: lastround#9924
